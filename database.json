@@ -1,0 +1,68 @@
+{
+    "animals": [
+        {
+            "id": 1,
+            "name": "Doodles",
+            "breed": "Poodle",
+            "customerId": 1,
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Fido",
+            "breed": "Beagle",
+            "customerId": 2,
+            "locationId": 1
+        },
+        {
+            "id":3,
+            "name": "Bentley",
+            "breed": "Shihtzu",
+            "customerId": 3,
+            "locationId": 2
+
+        },
+        {
+            "id":4,
+            "name": "Roscoe",
+            "breed": "Pomeranian",
+            "customerId": 4,
+            "locationId":1
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Sydney Noah",
+            "address": "976 Software School Rd."
+        },
+        {
+            "id": 2,
+            "name": "Trevor Guinn",
+            "address": "123 NSS Ln"
+        },
+        {
+            "id":3,
+            "name": "Lynn Samuelson",
+            "address": "546 NSS Dr"
+        },
+        {
+            "id":4,
+            "name": "Brianna Nelson",
+            "address": "789 Dickerson Ave"
+        }
+    ],
+    "employees": [],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        }
+    ]
+  }
